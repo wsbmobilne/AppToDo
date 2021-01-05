@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AppToDo</string>
+    <string name="login__info">Panel logowania</string>
+    <string name="login__hint_login">E-Mail</string>
+    <string name="login__hint_password">Hasło</string>
+    <string name="login__login">Zaloguj</string>
+    <string name="login__validation_login_empty">Proszę wpisać E-Mail</string>
+    <string name="login__validation_pass_empty">Proszę wpisać hasło!</string>
+    <string name="login__success">Zalogowano poprawnie!</string>
+    <string name="login__failure">Podano błędny E-Mail lub hasło</string>
+    <string name="logged_in__logout">Wyloguj</string>
+    <string name="logged_in__image">Obrazek użytkownika</string>
+    <string name="main_menu__show_all">Pokaż wszystkie</string>
+    <string name="main_menu__show_only_todos">Pokaż do wykonania</string>
+    <string name="main_menu__show_only_done">Pokaż wykonane</string>
+    <string name="main_menu__add_new">Dodaj nowe</string>
+</resources>

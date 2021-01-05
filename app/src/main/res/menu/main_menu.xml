@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_show_all"
+        android:enabled="true"
+        android:title="@string/main_menu__show_all"/>
+    <item
+        android:id="@+id/action_show_only_todos"
+        android:enabled="true"
+        android:title="@string/main_menu__show_only_todos" />
+    <item
+        android:id="@+id/action_show_only_done"
+        android:enabled="true"
+        android:title="@string/main_menu__show_only_done" />
+    <item
+        android:id="@+id/action_add_new"
+        android:enabled="true"
+        android:title="@string/main_menu__add_new" />
+</menu>
